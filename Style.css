@@ -1,0 +1,36 @@
+.Carteira {
+    border: solid 2px black;
+    background-color: lightslategray;
+    width: 450px;
+}
+
+header {
+    font-size: 8px;
+    text-align: center;
+    color: aliceblue;
+}
+
+main {
+    display: flex;
+    flex-direction: space-between;
+    padding: 5px;
+}
+
+hr {
+    border: solid 1px black;
+}
+
+img {
+    width: 100px;
+    border: solid black 2px;
+    margin: 10px;
+}
+
+footer {
+    display: flex;
+    flex-direction: column-reverse;
+    align-items: center;
+    text-align: center;
+    font-size: 10px;
+    color: aliceblue;
+}
